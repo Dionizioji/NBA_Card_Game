@@ -58,7 +58,7 @@ function updateScore() {
         gameActive = false
         
         setTimeout(() => {
-            alert(`Vencedor >>> ${winner} - ${winnerScore} pontos\n              ${loser} - ${loserScore} pontos`)
+            alert(`Vencedor >>> ${winner} - ${winnerScore} pontos\n${loser} - ${loserScore} pontos`)
         }, 500)
     } else {
         gameControler.innerHTML = `Player One: ${scores.playerOne} X Player Two: ${scores.playerTwo}`
