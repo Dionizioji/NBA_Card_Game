@@ -1,4 +1,4 @@
-### NBA_Card_Game
+### NBA Card Game
 
 #### Um jogo de cards da NBA pra você jogar com alguém e ver quem encontra mais pares. 
 
